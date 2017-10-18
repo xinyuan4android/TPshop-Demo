@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+        <TextView
+            android:id="@+id/register_phone_txt"
+            android:layout_width="match_parent"
+            style="@style/textStyle.Medium.User"
+            android:text="@string/register_sub_title"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:gravity="center_vertical|left"
+            android:layout_marginBottom="10dp"/>
+
+        <LinearLayout
+            android:id="@+id/check_code_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/register_phone_txt"
+            android:weightSum="5"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/check_code_edtv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="3"
+                android:ems="6"
+                android:layout_alignParentLeft="true"
+                android:inputType="number"
+                android:hint="@string/hint_input_check_code"
+                style="@style/edit_text"/>
+
+            <Button
+                android:id="@+id/send_code_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_weight="2"
+                android:layout_alignBottom="@+id/check_code_edtv"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:textColor="@color/white"
+                android:layout_marginLeft="@dimen/margin_space_half"
+                android:enabled="true"/>
+
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/next_btn"
+            android:layout_width="match_parent"
+            style="@style/button_style"
+            android:text="@string/register_btn_next"
+            android:layout_below="@+id/check_code_layout"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_pay_success.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_pay_success.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_account_manager_arrow.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_account_manager_arrow.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_desc.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_desc.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_checked_small.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_checked_small.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_banner_null.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_banner_null.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_enter_store.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_enter_store.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_into_arrow.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\ic_into_arrow.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_loading_small.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_loading_small.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_indicators_default.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\ic_indicators_default.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\jshop_searchbar_search.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\jshop_searchbar_search.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_product_null.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_product_null.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_wechat.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_wechat.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_feedback.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_feedback.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_setting.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uz_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\uz_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd8.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd8.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\uz_splash_bg.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\uz_splash_bg.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_accepted_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_accepted_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_close.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_close.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_camera.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_camera.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_minus_press.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_minus_press.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd0.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd0.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_checked_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_checked_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\topbar_message.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\topbar_message.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_two.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_two.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bcy.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bcy.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_cart_count.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_cart_count.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_cod.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_cod.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_edit.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_btn_pressed.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_check_p.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\list_check_p.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_sec.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_sec.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_brand_null.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_brand_null.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_store_level.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\default_store_level.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_top_btn.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_top_btn.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_checked.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_checked.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\appicon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\appicon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_coupon_unuse.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_coupon_unuse.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_canceled_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_canceled_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\b_input.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\b_input.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_track_close.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_track_close.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_pocket.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_pocket.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_checkno.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_checkno.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_uncheck_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_uncheck_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_returned_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_returned_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_plus_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_plus_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\category_default.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\category_default.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_mask.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_mask.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_third.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_third.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_more.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_more.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_picture.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_picture.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_arrow_detail.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_arrow_detail.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_recommend.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_recommend.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_plus_press.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_plus_press.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_all_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_all_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_indicators_now.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\ic_indicators_now.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bg_line_write.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bg_line_write.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\w3.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\w3.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_start_uncheck_small.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_start_uncheck_small.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_contact_customer.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_contact_customer.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_order_purchased_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_order_purchased_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\test_i.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\test_i.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\always_purchase_cart_icon.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\always_purchase_cart_icon.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\w2.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\w2.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_first.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_first.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ptr_rotate_arrow_up.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\ptr_rotate_arrow_up.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_cart.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_cart.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_unlike.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_unlike.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_baicai.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_baicai.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_up_small.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_up_small.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_frame.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_frame.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_home_menu_fourth.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_home_menu_fourth.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_own_shop.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_own_shop.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_btn_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_btn_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_three.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_three.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_level_one.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_level_one.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_location.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_location.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_default_avatar.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_default_avatar.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_shopcart_empty.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_shopcart_empty.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_order_status_seprator.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_order_status_seprator.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\w4.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\w4.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_order_empty.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_order_empty.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\w1.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\w1.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\smartbar_background.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\smartbar_background.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_asc.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_asc.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\switch_bottom.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\switch_bottom.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\pay_alipay.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\pay_alipay.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\title_back_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\product_like.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\product_like.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_privilege.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_privilege.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_bg_press.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\btn_bg_press.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flight_text_cancel_pressed.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\flight_text_cancel_pressed.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_order_notify_bg.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_order_notify_bg.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_track_oepn.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_track_oepn.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_swtich_close.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_swtich_close.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\titlebar_background.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\titlebar_background.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\default_scanner_code.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\default_scanner_code.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\person_head_bg.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\person_head_bg.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bd7.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\bd7.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_bg_normal.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\btn_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_coupon_used.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_coupon_used.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_arrow_right.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_arrow_right.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_swtich_open.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_swtich_open.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_minus_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_minus_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title_back_selected.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\title_back_selected.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_del_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_del_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\personal_icon_service.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\personal_icon_service.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_icon_price_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\shop_icon_price_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ptr_rotate_arrow.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\splash.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\arrow_right.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_delete.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable-xhdpi\\icon_delete.png"
+    }
+]

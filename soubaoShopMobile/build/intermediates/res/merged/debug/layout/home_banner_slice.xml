@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_180"
+		android:background="@color/bg_view">
+		<com.tpshop.mallc.view.SPPageView
+			android:id="@+id/home_banner_slayout"
+			android:layout_width="match_parent"
+			android:layout_gravity="center_vertical"
+			android:scrollbars="none"
+			android:layout_height="match_parent">
+			<LinearLayout
+				android:id="@+id/home_banner_lyaout"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_gravity="center_vertical"
+				android:orientation="horizontal" >
+			</LinearLayout>
+		</com.tpshop.mallc.view.SPPageView>
+
+	    <LinearLayout  
+	        android:id="@+id/pointer_layout"  
+	        android:layout_width="fill_parent"  
+	        android:layout_height="@dimen/height_pointer"
+	        android:gravity="center_horizontal|center_vertical"  
+	        android:orientation="horizontal"
+	        android:layout_alignParentBottom="true" /> 
+    </RelativeLayout>
+
+</LinearLayout>

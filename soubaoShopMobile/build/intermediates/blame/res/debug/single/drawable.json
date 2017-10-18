@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_search_close.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_search_close.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\recyclerview_margin_line_divider.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\recyclerview_margin_line_divider.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_right.jpg",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\bottom_right.jpg"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\h.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\h.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_x_button.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tag_button_bg_checked.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tag_button_bg_checked.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_msg.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_msg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logion_wx_press.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_logion_wx_press.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_logoin_wx_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_logoin_wx_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_uncheck.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_gray_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_gray_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_selctor.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\thumb_selctor.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\i.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\i.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_back_btn.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\mm_title_back_btn.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_w_press.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_w_press.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tag_button_bg_unchecked.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tag_button_bg_unchecked.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox_check.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\product_detail_pageindex.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\product_detail_pageindex.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_dialog_cycle_corner.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\loading_dialog_cycle_corner.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\list_divider.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\list_divider.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\category_list_row.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\category_list_row.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_r_normal.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_r_normal.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\title_back_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\title_back_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_w_normal.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_w_normal.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_shopcart_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tab_item_shopcart_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_yellow_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_yellow_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_main_tab_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\bg_main_tab_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_w_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_w_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\product_list_sort_text_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\product_list_sort_text_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_progress.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_scan.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_scan.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\card_state_pressed.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\card_state_pressed.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_float.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_right.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_pic.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pressed.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_pressed.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_category_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tab_item_category_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_r_press.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_r_press.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\a6w.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\a6w.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\common_title_back_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\common_title_back_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\product_list_sort_toolbar_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\product_list_sort_toolbar_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_move_line.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_move_line.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_title_right_btn.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\mm_title_right_btn.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\viewPagerIndicator_library\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_count.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\cart_count.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unpressed.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_unpressed.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow_down.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\new_logo.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\new_logo.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_home_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tab_item_home_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\l.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\l.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logion_qq_press.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_logion_qq_press.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\category_left_list_bg.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\category_left_list_bg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\up_right_top.jpg",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\up_right_top.jpg"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\view_bg_clickable_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\view_bg_clickable_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_titlebar_shopcart.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_titlebar_shopcart.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\uz_thumb_ver.9.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\uz_thumb_ver.9.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\product_cart_count_bg.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\product_cart_count_bg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\uz_thumb_hor.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\uz_thumb_hor.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_plus_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\cart_plus_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\up_left.jpg",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\up_left.jpg"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\k.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\k.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\product_list_top_grid_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\product_list_top_grid_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\up_right_bottom.jpg",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\up_right_bottom.jpg"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_left.jpg",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\bottom_left.jpg"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_border_r_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_border_r_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logion_qq_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_logion_qq_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_minus_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\cart_minus_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_item_mine_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\tab_item_mine_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\pb.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\pb.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\button_logoin_qq_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\button_logoin_qq_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\track_selctor.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\track_selctor.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_gem_green.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\btn_gem_green.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_logion_wx_normal.png",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\drawable\\icon_logion_wx_normal.png"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    }
+]

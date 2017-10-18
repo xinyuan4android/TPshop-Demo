@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tpshop.mallc"
+    android:versionCode="1"
+    android:versionName="1.0.11" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <!-- Required -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <!-- Required -->
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- Optional. Required for location feature -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+
+    <application
+        android:name="com.tpshop.mallc.global.SPMobileApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.tpshop.mallc.SPMainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" />
+        <activity android:name="com.tpshop.mallc.WelcomeActivity" />
+        <activity android:name="com.tpshop.mallc.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tpshop.mallc.activity.person.address.SPConsigneeAddressEditActivity_"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.tpshop.mallc.activity.person.address.SPCitySelectActivity_"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPProductListActivity"
+            android:label="@string/app_name" />
+        <activity android:name="com.tpshop.mallc.activity.shop.SPProductListSearchResultActivity" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPProductDetailActivity_"
+            android:label="@string/title_product_detail"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPProductDetaiSpeclActivity_"
+            android:label="@string/title_spec" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPProductDetailInnerActivity_"
+            android:label="@string/title_activity_spproduct_detail_inner" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPConfirmOrderActivity_"
+            android:label="@string/title_activity_spconfirm_order" />
+        <activity
+            android:name="com.tpshop.mallc.activity.person.address.SPConsigneeAddressListActivity_"
+            android:label="@string/title_consignee_list" />
+        <activity
+            android:name="com.tpshop.mallc.activity.shop.SPChooseLogisticActivity_"
+            android:label="@string/title_activity_spconfirm_order" />
+        <activity android:name="com.tpshop.mallc.activity.shop.SPAvailableCouponActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.common.SPTextFieldViewActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.common.SPPayListActivity_" />
+        <activity
+            android:name="com.tpshop.mallc.activity.common.SPPayCompletedActivity_"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="com.tpshop.mallc.activity.person.order.SPOrderListActivity_"
+            android:launchMode="singleInstance" />
+        <activity android:name="com.tpshop.mallc.activity.person.order.SPOrderDetailActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.order.SPGoodsCommentActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.shop.SPProductShowListActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.order.SPExchangeApplyActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.common.SPWebviewActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.order.SPExchangeListActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.order.SPExchangeDetailActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.SPCollectListActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.SPWalletLogtListActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.SPSettingListActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.common.SPSearchCommonActivity_" />
+        <activity android:name="com.soubao.spmobile.SPMobileActivity" />
+        <activity android:name="com.tpshop.mallc.activity.person.SPCouponListActivity_" />
+        <activity
+            android:name="com.tpshop.mallc.activity.common.SPImagePreviewActivity_"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- wechat callback -->
+        <activity
+            android:name="com.tpshop.mallc.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- QQ callback -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent2222222" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tencent.connect.common.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <!-- alipay sdk end -->
+        <activity android:name="com.tpshop.mallc.activity.person.user.SPLoginActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.user.SPUserDetailsActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.user.SPModifyPasswordActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.common.SPPopuListViewActivity" />
+        <activity android:name="com.tpshop.mallc.activity.person.user.SPInputActivity_" />
+        <activity android:name="com.tpshop.mallc.activity.person.user.SPRegisterOrForgetActivity_" />
+        <activity
+            android:name="com.tpshop.mallc.zxing.MipcaActivityCapture"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <receiver android:name="com.tpshop.mallc.AppRegister" >
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.tpshop.mallc.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="1111111111111111" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Shop" />
+    </application>
+
+</manifest>

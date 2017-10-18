@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_hide_animation.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_right_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_right_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_middle_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_middle_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\activityfade_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\activityfade_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\snackbar_show_animation.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\progress_indeterminate_animation.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_show_amination.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_show_amin.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_left_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_left_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_middle_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_middle_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\androidPullToRefresh_library\\build\\intermediates\\bundles\\default\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\shake_x.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\shake_x.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\activityfade_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\activityfade_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\266ce3d5091439e6b5e3f6bcaad39b8373e15132\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_left_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_left_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\top_right_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\top_right_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\anim_main.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\anim_main.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_socialize_fade_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\loading_small_rotate.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\loading_small_rotate.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_main_hide_amination.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_4.xml",
+        "source": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\src\\main\\res\\anim\\cycle_4.xml"
+    },
+    {
+        "merged": "F:\\asWorkSpace\\otherGithub\\TPshop-master\\soubaoShopMobile\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_root_hide_amin.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\\output\\res\\anim\\dialog_root_hide_amin.xml"
+    }
+]

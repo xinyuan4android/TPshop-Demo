@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tpshop.mallc" android:versionCode="1" android:versionName="1.0.11">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="21" tools:overrideLibrary="com.gc.materialdesign"/>
+
+  <!-- Required -->
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-feature android:name="android.hardware.camera" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-feature android:name="android.hardware.camera.autofocus" />
+  <!-- Required -->
+  <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+  <!-- Optional. Required for location feature -->
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.READ_LOGS" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
+  <uses-permission android:name="android.permission.GET_TASKS" />
+  <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+  <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+  <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+
+
+  <application android:name=".global.SPMobileApplication" android:allowBackup="true" android:icon="@drawable/appicon"
+      android:label="@string/app_name" android:hardwareAccelerated="true" android:theme="@style/AppTheme" >
+    <activity android:name=".SPMainActivity" android:label="@string/app_name" android:launchMode="singleTask" />
+    <activity android:name=".WelcomeActivity" />
+    <activity android:name=".SplashActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:name=".activity.person.address.SPConsigneeAddressEditActivity_" android:label="@string/app_name" />
+    <activity android:name=".activity.person.address.SPCitySelectActivity_" android:label="@string/app_name" />
+    <activity android:name=".activity.shop.SPProductListActivity" android:label="@string/app_name" />
+    <activity android:name=".activity.shop.SPProductListSearchResultActivity" />
+    <activity android:theme="@style/Theme.AppCompat.Light.NoActionBar" android:name=".activity.shop.SPProductDetailActivity_" android:label="@string/title_product_detail" />
+    <activity android:name=".activity.shop.SPProductDetaiSpeclActivity_" android:label="@string/title_spec" />
+    <activity android:name=".activity.shop.SPProductDetailInnerActivity_" android:label="@string/title_activity_spproduct_detail_inner" />
+    <activity android:name=".activity.shop.SPConfirmOrderActivity_" android:label="@string/title_activity_spconfirm_order" />
+    <activity android:name=".activity.person.address.SPConsigneeAddressListActivity_" android:label="@string/title_consignee_list" />
+    <activity android:name=".activity.shop.SPChooseLogisticActivity_" android:label="@string/title_activity_spconfirm_order" />
+    <activity android:name=".activity.shop.SPAvailableCouponActivity_" />
+    <activity android:name=".activity.common.SPTextFieldViewActivity_" />
+    <activity android:name=".activity.common.SPPayListActivity_" />
+    <activity android:name=".activity.common.SPPayCompletedActivity_" android:launchMode="singleInstance" />
+    <activity android:name=".activity.person.order.SPOrderListActivity_" android:launchMode="singleInstance" />
+    <activity android:name=".activity.person.order.SPOrderDetailActivity_" />
+    <activity android:name=".activity.person.order.SPGoodsCommentActivity_" />
+    <activity android:name=".activity.shop.SPProductShowListActivity_" />
+    <activity android:name=".activity.person.order.SPExchangeApplyActivity_" />
+    <activity android:name=".activity.common.SPWebviewActivity_" />
+    <activity android:name=".activity.person.order.SPExchangeListActivity_" />
+    <activity android:name=".activity.person.order.SPExchangeDetailActivity_" />
+    <activity android:name=".activity.person.SPCollectListActivity_" />
+    <activity android:name=".activity.person.SPWalletLogtListActivity_" />
+    <activity android:name=".activity.person.SPSettingListActivity_" />
+    <activity android:name=".activity.common.SPSearchCommonActivity_" />
+    <activity android:name="com.soubao.spmobile.SPMobileActivity" />
+    <activity android:name=".activity.person.SPCouponListActivity_" />
+    <activity android:name=".activity.common.SPImagePreviewActivity_" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+    <!-- wechat callback-->
+    <activity android:name=".wxapi.WXEntryActivity" android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    <!-- QQ callback-->
+    <activity android:name="com.tencent.tauth.AuthActivity" android:launchMode="singleTask" android:noHistory="true">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <category android:name="android.intent.category.BROWSABLE" />
+        <data android:scheme="tencent2222222" />
+      </intent-filter>
+    </activity>
+    <activity android:name="com.tencent.connect.common.AssistActivity" android:configChanges="orientation|keyboardHidden|screenSize" android:screenOrientation="portrait" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    <!-- alipay sdk begin -->
+    <activity android:name="com.alipay.sdk.app.H5PayActivity" android:configChanges="orientation|keyboardHidden|navigation|screenSize" android:exported="false" android:screenOrientation="behind" android:windowSoftInputMode="adjustResize|stateHidden" />
+    <!-- alipay sdk end -->
+    <activity android:name=".activity.person.user.SPLoginActivity_" />
+    <activity android:name=".activity.person.user.SPUserDetailsActivity_" />
+    <activity android:name=".activity.person.user.SPModifyPasswordActivity_" />
+    <activity android:name=".activity.common.SPPopuListViewActivity" />
+    <activity android:name=".activity.person.user.SPInputActivity_" />
+    <activity android:name=".activity.person.user.SPRegisterOrForgetActivity_" />
+    <activity android:name=".zxing.MipcaActivityCapture" android:configChanges="orientation|keyboardHidden" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:windowSoftInputMode="stateAlwaysHidden" />
+    <receiver android:name=".AppRegister">
+      <intent-filter>
+        <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+      </intent-filter>
+    </receiver>
+    <activity android:name=".wxapi.WXPayEntryActivity" android:exported="true" android:theme="@android:style/Theme.Translucent" android:launchMode="singleTop" />
+    <meta-data android:name="UMENG_APPKEY" android:value="1111111111111111" />
+    <meta-data android:name="UMENG_CHANNEL" android:value="Shop" />
+  </application>
+</manifest>
+

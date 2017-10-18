@@ -1,0 +1,485 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:2:1-109:12
+	package
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:4:56-84
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:4:32-55
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:5:3-117
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Administrator\.android\build-cache\381393c2eeda30d76ba48d68d600b072f7a4314b\output\AndroidManifest.xml:18:5-42
+MERGED from [TPshop-master:androidPullToRefresh_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\androidPullToRefresh_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
+MERGED from [TPshop-master:slidingMenu_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\slidingMenu_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [TPshop-master:viewPagerIndicator_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\viewPagerIndicator_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:40
+MERGED from [TPshop-master:StickyGridHeaders_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\StickyGridHeaders_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [TPshop-master:HeaderAndFooterRecyclerView_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\HeaderAndFooterRecyclerView_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [TPshop-master:magicindicator_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\magicindicator_library\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:23.2.0] C:\Users\Administrator\.android\build-cache\266ce3d5091439e6b5e3f6bcaad39b8373e15132\output\AndroidManifest.xml:20:5-43
+MERGED from [:MaterialDesign-md_ready-release:] C:\Users\Administrator\.android\build-cache\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.chanven.lib:cptr:1.0.0] C:\Users\Administrator\.android\build-cache\d8430daa486a41c8fe3355026a5f185ab3b23482\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.9.0] C:\Users\Administrator\.android\build-cache\58aaf2d49550f034629f4efee33a771326abc71a\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.9.0] C:\Users\Administrator\.android\build-cache\5a7a302c021f7dfb2e0b3e7cecfbed6e0f917fe1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.9.0] C:\Users\Administrator\.android\build-cache\b6cacf93b3afc33fca4df1c63efff739dbf6a641\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.9.0] C:\Users\Administrator\.android\build-cache\968697efeaad3d637ce3abfe337428ed287360e1\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.9.0] C:\Users\Administrator\.android\build-cache\9d16437cbf1946ded7237f69128b616560f9be8c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.kingideayou:SlideBottomPanel:1.0.6] C:\Users\Administrator\.android\build-cache\a38477d39e63a33b84d8bab574fddaeddf92640e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Administrator\.android\build-cache\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Administrator\.android\build-cache\2417ed054dae521b82fc19ceb8e781b926f80398\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Administrator\.android\build-cache\ad3020e4b163e77501f90e45597df939e5d9b060\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.0] C:\Users\Administrator\.android\build-cache\f0ba0eeab1522e9ced07bcbf2b6f69619221468a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Administrator\.android\build-cache\64b727bee283ef8f52925eaac6e24605d620a732\output\AndroidManifest.xml:20:5-43
+MERGED from [com.daimajia.swipelayout:library:1.2.0] C:\Users\Administrator\.android\build-cache\69b7b425e81c19cb71e16e78c14952429d75193f\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\Administrator\.android\build-cache\9e282685ed408f47a1bd9830c8410aaf5fb734c2\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:5:70-115
+	android:targetSdkVersion
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:5:40-69
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:5:13-39
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+		INJECTED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:8:3-65
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:8:20-62
+uses-feature#android.hardware.camera
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:9:3-58
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:9:17-55
+uses-permission#android.permission.CAMERA
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:10:3-63
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:10:20-60
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:11:3-68
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:11:17-65
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:13:3-77
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:13:20-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:14:3-66
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:14:20-63
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:15:3-73
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:15:20-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:16:3-79
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:16:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:17:3-78
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:17:20-75
+uses-permission#android.permission.VIBRATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:18:3-64
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:18:20-61
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:19:3-82
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:19:20-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:20:20-74
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:21:3-71
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:21:20-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:23:3-79
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:23:20-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:24:3-74
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:24:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:25:3-74
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:25:20-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:26:3-77
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:26:20-74
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:27:3-87
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:27:20-84
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:28:3-77
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:28:20-74
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:29:3-66
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:29:20-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:30:3-67
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:30:20-64
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:31:3-66
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:31:20-63
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:32:3-70
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:32:20-67
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:33:3-76
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:33:20-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:34:3-69
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:34:20-66
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:35:3-72
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:35:20-69
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:36:3-72
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:36:20-69
+application
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:39:3-108:17
+MERGED from [TPshop-master:androidPullToRefresh_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\androidPullToRefresh_library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-20
+MERGED from [TPshop-master:HeaderAndFooterRecyclerView_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\HeaderAndFooterRecyclerView_library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:23.2.0] C:\Users\Administrator\.android\build-cache\266ce3d5091439e6b5e3f6bcaad39b8373e15132\output\AndroidManifest.xml:22:5-20
+MERGED from [:MaterialDesign-md_ready-release:] C:\Users\Administrator\.android\build-cache\a0079c3aec8c77ceb2c37b596a6f7c934b1e6edb\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.chanven.lib:cptr:1.0.0] C:\Users\Administrator\.android\build-cache\d8430daa486a41c8fe3355026a5f185ab3b23482\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.kingideayou:SlideBottomPanel:1.0.6] C:\Users\Administrator\.android\build-cache\a38477d39e63a33b84d8bab574fddaeddf92640e\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\Administrator\.android\build-cache\b581fbf0d5e6629f12ac4a1d6d2aa7903df1f5bc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\Administrator\.android\build-cache\2417ed054dae521b82fc19ceb8e781b926f80398\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\Administrator\.android\build-cache\ad3020e4b163e77501f90e45597df939e5d9b060\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.0] C:\Users\Administrator\.android\build-cache\64b727bee283ef8f52925eaac6e24605d620a732\output\AndroidManifest.xml:22:5-20
+MERGED from [com.bm.photoview:library:1.4.1] C:\Users\Administrator\.android\build-cache\9e282685ed408f47a1bd9830c8410aaf5fb734c2\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:40:7-39
+	android:supportsRtl
+		ADDED from [TPshop-master:HeaderAndFooterRecyclerView_library:unspecified] F:\asWorkSpace\otherGithub\TPshop-master\HeaderAndFooterRecyclerView_library\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+	android:hardwareAccelerated
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:40:40-74
+	android:allowBackup
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:39:59-85
+	android:icon
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:39:86-118
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:40:75-106
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:39:16-58
+activity#com.tpshop.mallc.SPMainActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:41:5-113
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:41:46-78
+	android:launchMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:41:79-110
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:41:15-45
+activity#com.tpshop.mallc.WelcomeActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:42:5-49
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:42:15-46
+activity#com.tpshop.mallc.SplashActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:43:5-48:16
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:43:15-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:44:7-47:23
+action#android.intent.action.MAIN
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:45:9-61
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:45:17-58
+category#android.intent.category.LAUNCHER
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:46:9-69
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:46:19-66
+activity#com.tpshop.mallc.activity.person.address.SPConsigneeAddressEditActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:49:5-122
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:49:87-119
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:49:15-86
+activity#com.tpshop.mallc.activity.person.address.SPCitySelectActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:50:5-112
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:50:77-109
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:50:15-76
+activity#com.tpshop.mallc.activity.shop.SPProductListActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:51:5-102
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:51:67-99
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:51:15-66
+activity#com.tpshop.mallc.activity.shop.SPProductListSearchResultActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:52:5-81
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:52:15-78
+activity#com.tpshop.mallc.activity.shop.SPProductDetailActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:53:5-174
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:53:127-171
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:53:15-71
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:53:72-126
+activity#com.tpshop.mallc.activity.shop.SPProductDetaiSpeclActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:54:5-111
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:54:74-108
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:54:15-73
+activity#com.tpshop.mallc.activity.shop.SPProductDetailInnerActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:55:5-139
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:55:75-136
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:55:15-74
+activity#com.tpshop.mallc.activity.shop.SPConfirmOrderActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:56:5-126
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:56:69-123
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:56:15-68
+activity#com.tpshop.mallc.activity.person.address.SPConsigneeAddressListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:57:5-134
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:57:87-131
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:57:15-86
+activity#com.tpshop.mallc.activity.shop.SPChooseLogisticActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:58:5-128
+	android:label
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:58:71-125
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:58:15-70
+activity#com.tpshop.mallc.activity.shop.SPAvailableCouponActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:59:5-74
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:59:15-71
+activity#com.tpshop.mallc.activity.common.SPTextFieldViewActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:60:5-74
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:60:15-71
+activity#com.tpshop.mallc.activity.common.SPPayListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:61:5-68
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:61:15-65
+activity#com.tpshop.mallc.activity.common.SPPayCompletedActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:62:5-109
+	android:launchMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:62:71-106
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:62:15-70
+activity#com.tpshop.mallc.activity.person.order.SPOrderListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:63:5-112
+	android:launchMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:63:74-109
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:63:15-73
+activity#com.tpshop.mallc.activity.person.order.SPOrderDetailActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:64:5-78
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:64:15-75
+activity#com.tpshop.mallc.activity.person.order.SPGoodsCommentActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:65:5-79
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:65:15-76
+activity#com.tpshop.mallc.activity.shop.SPProductShowListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:66:5-74
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:66:15-71
+activity#com.tpshop.mallc.activity.person.order.SPExchangeApplyActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:67:5-80
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:67:15-77
+activity#com.tpshop.mallc.activity.common.SPWebviewActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:68:5-68
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:68:15-65
+activity#com.tpshop.mallc.activity.person.order.SPExchangeListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:69:5-79
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:69:15-76
+activity#com.tpshop.mallc.activity.person.order.SPExchangeDetailActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:70:5-81
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:70:15-78
+activity#com.tpshop.mallc.activity.person.SPCollectListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:71:5-72
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:71:15-69
+activity#com.tpshop.mallc.activity.person.SPWalletLogtListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:72:5-75
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:72:15-72
+activity#com.tpshop.mallc.activity.person.SPSettingListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:73:5-72
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:73:15-69
+activity#com.tpshop.mallc.activity.common.SPSearchCommonActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:74:5-73
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:74:15-70
+activity#com.soubao.spmobile.SPMobileActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:75:5-69
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:75:15-66
+activity#com.tpshop.mallc.activity.person.SPCouponListActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:76:5-71
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:76:15-68
+activity#com.tpshop.mallc.activity.common.SPImagePreviewActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:77:5-132
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:77:71-130
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:77:15-70
+activity#com.tpshop.mallc.wxapi.WXEntryActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:5-238
+	android:screenOrientation
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:139-175
+	android:exported
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:115-138
+	android:configChanges
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:53-114
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:176-235
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:79:15-52
+activity#com.tencent.tauth.AuthActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:81:5-88:16
+	android:launchMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:81:61-92
+	android:noHistory
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:81:93-117
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:81:15-60
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:82:7-87:23
+action#android.intent.action.VIEW
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:83:9-61
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:83:17-58
+category#android.intent.category.DEFAULT
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:84:9-68
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:84:19-65
+category#android.intent.category.BROWSABLE
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:85:9-70
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:85:19-67
+data
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:86:9-49
+	android:scheme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:86:15-46
+activity#com.tencent.connect.common.AssistActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:89:5-233
+	android:screenOrientation
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:89:134-170
+	android:configChanges
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:89:72-133
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:89:171-230
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:89:15-71
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:5-253
+	android:screenOrientation
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:161-195
+	android:exported
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:136-160
+	android:windowSoftInputMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:196-250
+	android:configChanges
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:63-135
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:91:15-62
+activity#com.tpshop.mallc.activity.person.user.SPLoginActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:93:5-71
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:93:15-68
+activity#com.tpshop.mallc.activity.person.user.SPUserDetailsActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:94:5-77
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:94:15-74
+activity#com.tpshop.mallc.activity.person.user.SPModifyPasswordActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:95:5-80
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:95:15-77
+activity#com.tpshop.mallc.activity.common.SPPopuListViewActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:96:5-72
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:96:15-69
+activity#com.tpshop.mallc.activity.person.user.SPInputActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:97:5-71
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:97:15-68
+activity#com.tpshop.mallc.activity.person.user.SPRegisterOrForgetActivity_
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:98:5-82
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:98:15-79
+activity#com.tpshop.mallc.zxing.MipcaActivityCapture
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:5-244
+	android:screenOrientation
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:109-145
+	android:windowSoftInputMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:194-241
+	android:configChanges
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:58-108
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:146-193
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:99:15-57
+receiver#com.tpshop.mallc.AppRegister
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:100:5-104:16
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:100:15-42
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:101:7-103:23
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:102:9-92
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:102:17-89
+activity#com.tpshop.mallc.wxapi.WXPayEntryActivity
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:105:5-162
+	android:launchMode
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:105:129-159
+	android:exported
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:105:56-79
+	android:theme
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:105:80-128
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:105:15-55
+meta-data#UMENG_APPKEY
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:106:5-79
+	android:value
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:106:44-76
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:106:16-43
+meta-data#UMENG_CHANNEL
+ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:107:5-68
+	android:value
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:107:45-65
+	android:name
+		ADDED from F:\asWorkSpace\otherGithub\TPshop-master\soubaoShopMobile\src\main\AndroidManifest.xml:107:16-44

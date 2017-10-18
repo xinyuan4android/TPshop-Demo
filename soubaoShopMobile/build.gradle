@@ -1,0 +1,193 @@
+apply plugin: 'com.android.application'
+//配置Android annotations
+apply plugin: 'android-apt'
+
+repositories{
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.tpshop.mallc"
+        minSdkVersion 14
+        targetSdkVersion 21
+        multiDexEnabled true
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+    }
+
+//    signingConfigs {
+//        myconfig {
+//            storeFile file("")
+//            storePassword ""
+//            keyAlias ""
+//            keyPassword ""
+//        }
+//    }
+    buildTypes {
+        debug {
+            //proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable true
+            jniDebuggable true
+//            signingConfig signingConfigs.myconfig
+        }
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable false
+//            signingConfig signingConfigs.myconfig
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    task nativeLibsToJar(type: Zip, description: "create a jar archive of the native libs") {
+        destinationDir file("$projectDir/libs")
+        baseName "libplasma"
+        extension "jar"
+        from fileTree(dir: "libs", include: "**/*.so")
+        into "lib"
+    }
+
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn(nativeLibsToJar)
+    }
+}
+
+apt {
+    arguments {
+        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
+        resourcePackageName "com.tpshop.mallc"
+    }
+}
+
+dependencies {
+    compile project(':androidPullToRefresh_library')
+    //单文件依赖
+    compile project(':slidingMenu_library')
+    compile project(':viewPagerIndicator_library')
+    compile project(':StickyGridHeaders_library')
+    compile project(':HeaderAndFooterRecyclerView_library')
+    compile project(':magicindicator_library')
+
+    //配置Android annotations
+    apt "org.androidannotations:androidannotations:3.3.2"
+    compile 'com.android.support:support-v4:23.2.0'
+    compile 'com.android.support:appcompat-v7:23.2.0'
+    compile 'com.android.support:design:23.2.0' //22.2.0
+    //compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
+    //compile 'com.github.vajro:MaterialDesignLibrary:1.6' //注意:1.5@aar与design有冲突, 如果需要MaterialDesign , 请使用1.6
+    compile(name:'MaterialDesign-md_ready-release',ext:'aar')
+    compile 'com.chanven.lib:cptr:1.0.0'
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile 'com.facebook.fresco:fresco:0.9.0+'
+    compile 'com.github.kingideayou:SlideBottomPanel:1.0.6'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'org.androidannotations:androidannotations-api:3.3.2'
+    compile 'com.android.support:recyclerview-v7:23.2.0'
+    compile 'com.daimajia.swipelayout:library:1.2.0@aar'
+    compile 'com.bm.photoview:library:1.4.1'
+
+    ////某个文件夹下面全部依赖
+    //compile fileTree(dir: 'libs', include: '*.jar')
+    compile files('libs/alipaySdk-20160516.jar')
+    compile files('libs/SPMobile.jar')
+
+    //compile files('libs/javabase64-1.2.jar')
+
+    compile files('libs/core.jar')
+
+    //apicloud相关jar
+    compile files('libs/apiEngine v1.1.0.jar')
+    //compile files('libs/utdid4all-1.0.4.jar')
+    compile files('libs/uzMam.jar')
+
+    /**  友盟统计 , 第三方登录相关 **/
+    compile files('libs/umeng-analytics-v6.0.1.jar')
+    compile files('libs/umeng_social_apiv6.0.0.jar')
+    compile files('libs/umeng_social_netv6.0.0.jar')
+    compile files('libs/umeng_social_viewv6.0.0.jar')
+
+    /**  友盟, QQ jar  **/
+    compile files('libs/SocialSDK_QQZone_3.jar')
+    compile files('libs/SocialSDK_umengqq.jar')
+    /**  友盟, 微信 jar  **/
+    //compile files('libs/SocialSDK_umengwx.jar') //与微信支付jar冲突, 故屏蔽
+    compile files('libs/SocialSDK_WeiXin_2.jar')
+
+    /**  微信支付 jar **/
+    compile files('libs/libammsdk.jar')
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
